@@ -181,6 +181,19 @@
             "end_date": "Sep 2020",
             "members": 342773,
             "score": 8.97
+        },
+        {
+            "mal_id": 4181,
+            "rank": 15,
+            "title": "Clannad: After Story",
+            "url": "https://myanimelist.net/anime/4181/Clannad__After_Story",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1299/110774.jpg?s=fcd9db2cfd72c10a2278f483173cfff9",
+            "type": "TV",
+            "episodes": 24,
+            "start_date": "Oct 2008",
+            "end_date": "Mar 2009",
+            "members": 1025530,
+            "score": 8.95
         }
     ]
 }
